@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rafamadethis
+- 👀 I’m interested in machine learning, interpretability
+- 🌱 I’m currently learning machine learning, quantum computing
+- 📫 @rafamavial on IG
